@@ -4,7 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "musan"
-version = "0.0.1"
+version = "0.0.2"
+readme = "README.md"
 description = "This is the module for work with mel-specs based music analitycs models"
 authors = [
     {name = "nikarpoff", email = "nik.karpov103@mail.ru"}
@@ -29,6 +30,7 @@ dependencies = [
 
 [project.urls]
 Repository = "https://github.com/nikarpoff"
+"Bug Tracker" = "https://github.com/yourusername/your-repo/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
