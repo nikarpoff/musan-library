@@ -1,5 +1,5 @@
 """
-Python Music Analytics library (musan) v.0.0.1
+Python Music Analytics library (musan) v.0.0.3
 
 Copyright [2024] [Nikita Karpov]
 

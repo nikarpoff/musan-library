@@ -14,7 +14,7 @@
 
 import torch
 from torch import nn
-import torch.functional as F
+import torch.nn.functional as F
 import torchaudio
 import numpy as np
 import io
